@@ -40,6 +40,7 @@ font-weight: bolder;
 .guessSubmit{
     background-color: antiquewhite;
     cursor: pointer;
+    border-radius: 1rem;
 }
  .guessSubmit:hover {
     background-color: azure;
