@@ -10,7 +10,7 @@ document.getElementById("submitguess").onclick = function (){
 
     let x = document.getElementById("guessField").value;
     if (x == y){
-        alert("CONGRATULATIONS !!! YOU GUESSED IT RIGHT" +   guess   +  "GUESS");
+        alert("CONGRATULATIONS !!! YOU GUESSED IT RIGHT" +   guess   +  "GUESSx");
 
     }
     else if (y < x){
